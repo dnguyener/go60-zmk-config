@@ -96,7 +96,7 @@
             label = "HOME_ROW_MODS_LEFT_HAND";
             #binding-cells = <2>;
             bindings = <&kp>, <&kp>;
-            hold-triggerth the-key-positions = <RIGHT_HAND_KEYS THUMB_KEYS>;
+            hold-trigger-key-positions = <RIGHT_HAND_KEYS THUMB_KEYS>;
             hold-trigger-on-release;
             tapping-term-ms = <250>;
             quick-tap-ms = <160>;
